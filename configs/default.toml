@@ -1,0 +1,8 @@
+name = "Zayona"
+environment = "development"
+log_level = "INFO"
+data_directory = "./data"
+plugin_directory = "./plugins"
+provider = "ollama"
+host = "127.0.0.1"
+port = 8000

@@ -1,0 +1,11 @@
+[planner]
+enabled = true
+
+[coder]
+enabled = true
+
+[reviewer]
+enabled = true
+
+[utility]
+enabled = true

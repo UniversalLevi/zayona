@@ -1,0 +1,3 @@
+level = "INFO"
+file = "logs/zayona.log"
+console = true

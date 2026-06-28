@@ -1,0 +1,1 @@
+"""Zayona CLI application package."""

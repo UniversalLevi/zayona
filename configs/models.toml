@@ -1,0 +1,19 @@
+[planner]
+provider = "ollama"
+model = "deepseek-r1:8b"
+
+[coder]
+provider = "ollama"
+model = "qwen2.5-coder:7b"
+
+[reviewer]
+provider = "ollama"
+model = "qwen3:8b"
+
+[utility]
+provider = "ollama"
+model = "qwen3:4b"
+
+[embeddings]
+provider = "ollama"
+model = "nomic-embed-text"
